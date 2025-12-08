@@ -1,4 +1,4 @@
-# PESMASTER-Scraper-Tool
+# PESMASTER-Scraping-Tool
 Tool scraping players for PESMASTER
 Support for:
 1. eFootball
